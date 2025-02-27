@@ -5,7 +5,7 @@ This project explores the versatility of operational amplifiers (Op-Amps) in con
 Este projeto explora a versatilidade dos amplificadores operacionais (AMPops) em configurações como o seguidor de tensão (buffer), com o objetivo de estudar e aplicar técnicas de isolamento e amplificação de sinal sem alteração da sua forma. Utilizando AMPops de forma criativa, o projeto envolve a construção e análise de circuitos buffer.
 
 # Objetivo  
-Alterar a forma da onda de saída, com o propósito de inverter e amplificar o sinal, utilizando um amplificador operacional em configuração inversora.
+Alterar a forma da onda de saída, com o propósito de isolar e transferir o sinal sem alteração de amplitude ou polaridade, utilizando um amplificador operacional em configuração seguidor de tensão (buffer).
 
 # Utilidade  
 Em vez de precisar criar uma fonte de tensão específica, este circuito utiliza um amplificador operacional 741 com três resistores para alterar a organização dos semiciclos do sinal de entrada, ajustando a forma da onda e controlando a tensão de saída.
