@@ -2,7 +2,7 @@
 This project explores the versatility of operational amplifiers (Op-Amps) in various configurations, such as inverting amplifiers, with the goal of studying and applying different signal amplification techniques. Using Op-Amps creatively, the project involves the construction and analysis of amplifier circuits.
 
 # Ampop seguido de tensão
-Este projeto explora a versatilidade dos amplificadores operacionais (AMPops) em diversas configurações, como amplificadores inversores, com o objetivo de estudar e aplicar diferentes técnicas de amplificação de sinal. Utilizando AMPops de forma criativa, o projeto envolve a construção e análise de circuitos amplificadores.
+Este projeto explora a versatilidade dos amplificadores operacionais (AMPops) em configurações como o seguidor de tensão (buffer), com o objetivo de estudar e aplicar técnicas de isolamento e amplificação de sinal sem alteração da sua forma. Utilizando AMPops de forma criativa, o projeto envolve a construção e análise de circuitos buffer.
 
 # Objetivo  
 Alterar a forma da onda de saída, com o propósito de inverter e amplificar o sinal, utilizando um amplificador operacional em configuração inversora.
