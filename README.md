@@ -1,5 +1,5 @@
 # Buffer Op-Amp  
-This project explores the versatility of operational amplifiers (Op-Amps) in various configurations, such as inverting amplifiers, with the goal of studying and applying different signal amplification techniques. Using Op-Amps creatively, the project involves the construction and analysis of amplifier circuits.
+This project explores the versatility of operational amplifiers (Op-Amps) in configurations such as the voltage follower (buffer), with the goal of studying and applying techniques for signal isolation and amplification without altering its form. Using Op-Amps creatively, the project involves the construction and analysis of buffer circuits.
 
 # Ampop seguido de tensão
 Este projeto explora a versatilidade dos amplificadores operacionais (AMPops) em configurações como o seguidor de tensão (buffer), com o objetivo de estudar e aplicar técnicas de isolamento e amplificação de sinal sem alteração da sua forma. Utilizando AMPops de forma criativa, o projeto envolve a construção e análise de circuitos buffer.
