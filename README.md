@@ -8,16 +8,17 @@ Este projeto explora a versatilidade dos amplificadores operacionais (AMPops) em
 Alterar a forma da onda de saída, com o propósito de isolar e transferir o sinal sem alteração de amplitude ou polaridade, utilizando um amplificador operacional em configuração seguidor de tensão (buffer).
 
 # Utilidade  
-Em vez de precisar criar uma fonte de tensão específica, este circuito utiliza um amplificador operacional 741 com três resistores para alterar a organização dos semiciclos do sinal de entrada, ajustando a forma da onda e controlando a tensão de saída.
+Este circuito utiliza um amplificador operacional 741 com um resistores para isolar o sinal de entrada, mantendo a forma da onda inalterada e controlando a corrente de saída, sem modificar a amplitude ou polaridade do sinal.
 
-**Mudança de polaridade:** Um amplificador operacional inversor inverte a polaridade do sinal de entrada, o que é útil em sistemas que exigem sinais com polaridade oposta, como em circuitos diferenciais e amplificadores de instrumentação. Entre as aplicações práticas, destacam-se:  
-- Circuitos Diferenciais  
-- Sistemas de Áudio  
-- Sistemas de Controle  
-- Conversores de Polaridade  
-- Geradores de Sinal e Modulação  
-- Circuitos Lógicos e de Processamento de Sinais  
-- Circuitos de Comparação e Detecção  
+**Manutenção da polaridade e amplificação sem distorção:** Um amplificador operacional seguidor de tensão (buffer) mantém a polaridade do sinal de entrada, amplificando o sinal sem inverter ou alterar sua forma. Este comportamento é útil em sistemas que precisam de isolamento de sinal sem modificações na polaridade ou amplitude. Entre as aplicações práticas, destacam-se:
+
+- Isolamento de Circuitos de Alta Impedância
+- Amplificação de Sinal de Áudio
+- Integração de Sensores e Instrumentos
+- Circuitos de Medição e Monitoramento
+- Amplificadores de Instrumentação
+- Circuitos de Transmissão de Sinal
+- Interfaces de Circuitos com Impedâncias Diferentes
 
 # Materiais  
 O circuito é projetado utilizando três resistores e um amplificador operacional 741, com o objetivo de inverter e amplificar o sinal de saída de forma eficiente.  
